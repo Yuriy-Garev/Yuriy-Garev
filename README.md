@@ -6,10 +6,12 @@
     - Cyber Security
 
 ## 🗃️ Summary of qualification
-- ### (5️⃣ years) Commersial exp. in Game Dev
+- ### (7️⃣ years) Commercial exp. in Game Dev
+    - Blindflug Studios
     - DEVGAME OU
     - Balhorn Entertainment
     - Nika Entertainment
+- ### (1️⃣ year) Commercial exp. in Web Dev
     - Iceshop 
 - ### (6️⃣ years) Master of Science, Applied Mathematics
     - (1 year)  [unilim.fr](https://www.unilim.fr/) [Limoges, France] | [Presentation](https://drive.google.com/file/d/1oQL9tkdIPMWuMs5lYMlRafKApZNuw0fv/view), [Report](https://drive.google.com/file/d/1n-PECfal8b9Tibh98GbtvP3PDHAZ4t76/view), [Project Source](https://github.com/Yuriy-Garev/unilim-crack-prop), [Certificate](https://drive.google.com/open?id=10dmb4nyg2qNBPIeNp2wX-aX87QMgLsLY)
